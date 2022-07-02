@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.javenliu.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.javenliu.testplugin.MyBundle
 
 class MyApplicationService {
 
